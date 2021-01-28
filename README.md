@@ -3,3 +3,8 @@
 ```
 sbt --error "runMain abc189.a.Main"
 ```
+
+## TODO
+
+* Scalaのバージョン
+* ビルドオプション
